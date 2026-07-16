@@ -1,0 +1,47 @@
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { display:flex; flex-direction:column; min-height:100vh; margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif; line-height:1.6; color:#333; }
+.main-content { flex:1 0 auto; }
+.container { width:min(100% - 2rem, 760px); margin-inline:auto; }
+.content-wrap { padding:3rem 0; }
+.page-title { font-size:2.5rem; font-weight:700; color:#1a1a1a; margin:0 0 1.5rem; }
+.section-heading { font-size:1.75rem; font-weight:600; color:#2c2c2c; border-bottom:2px solid #e0e0e0; padding-bottom:.5rem; margin-top:3rem; }
+.lead { font-size:1.25rem; font-weight:300; color:#555; margin:0 0 2rem; }
+.content-list { font-size:1.1rem; line-height:1.8; padding-left:1.5rem; }
+.content-list li { margin-bottom:.75rem; }
+.site-header { position:sticky; top:0; z-index:100; background:#212529; color:#fff; }
+.nav-shell { width:min(100% - 2rem, 1140px); min-height:58px; margin:auto; display:flex; align-items:center; justify-content:space-between; gap:1rem; }
+.navbar-brand { display:flex; align-items:center; color:#fff; font-size:1.5rem; font-weight:600; letter-spacing:.5px; text-decoration:none; }
+.navbar-brand img { width:auto; height:30px; margin-right:.5rem; }
+.nav-toggle { display:none; color:#fff; background:transparent; border:1px solid #6c757d; border-radius:.25rem; font-size:1.25rem; padding:.2rem .55rem; }
+.site-nav ul { display:flex; align-items:center; gap:.25rem; list-style:none; padding:0; margin:0; }
+.site-nav a, .dropdown-trigger { display:block; color:#fff; font:inherit; font-size:1rem; font-weight:500; text-decoration:none; padding:.5rem 1rem; background:transparent; border:0; cursor:pointer; }
+.site-nav a:hover, .dropdown-trigger:hover { color:#0d6efd; }
+.dropdown { position:relative; }
+.dropdown-menu { display:none; position:absolute; right:0; top:100%; min-width:320px; max-height:70vh; overflow:auto; background:#212529; border-radius:.375rem; box-shadow:0 .5rem 1rem rgba(0,0,0,.15); padding:.5rem 0; }
+.dropdown:focus-within .dropdown-menu, .dropdown:hover .dropdown-menu { display:block; }
+.dropdown-menu a { padding:.5rem 1.5rem; white-space:normal; }
+.breadcrumb { display:flex; flex-wrap:wrap; gap:.5rem; list-style:none; background:transparent; padding:0; margin:0 0 1.5rem; font-size:.9rem; }
+.breadcrumb-item + .breadcrumb-item::before { content:"›"; color:#6c757d; padding-right:.5rem; }
+.breadcrumb-item a { color:#0d6efd; text-decoration:none; }
+.breadcrumb-item a:hover { color:#0a58ca; text-decoration:underline; }
+.breadcrumb-item.active { color:#6c757d; }
+.page-navigation { margin-top:3rem; display:flex; justify-content:space-between; gap:1rem; }
+.btn { display:inline-block; padding:.75rem 1.5rem; font-size:1rem; font-weight:500; border:1px solid #6c757d; border-radius:.375rem; color:#6c757d; text-decoration:none; transition:all .3s ease; }
+.btn:hover { transform:translateY(-2px); box-shadow:0 4px 8px rgba(0,0,0,.15); background:#6c757d; color:#fff; }
+.footer { flex-shrink:0; background:#212529; color:#fff; padding:1.5rem 0; }
+.footer-content { width:min(100% - 2rem, 1140px); margin:auto; display:flex; justify-content:space-between; gap:1rem; }
+.footer p { margin:0; }.footer .text-muted { color:#adb5bd; }
+.chapter-list { display:grid; gap:1rem; margin-top:2rem; }
+.chapter-card { padding:1.5rem; border-left:4px solid #0d6efd; background:#f8f9fa; border-radius:.375rem; transition:all .3s ease; }
+.chapter-card:hover { background:#e9ecef; border-left-color:#0a58ca; transform:translateX(5px); }
+.chapter-card h3 { margin:0 0 .75rem; font-size:1.25rem; }.chapter-card h3 a { color:#1a1a1a; text-decoration:none; }.chapter-card h3 a:hover { color:#0d6efd; }.chapter-card p { color:#555; margin:0 0 1rem; }
+.hero-image { display:block; width:100%; max-width:100%; height:auto; margin:0 0 2rem; object-fit:cover; box-shadow:0 4px 6px rgba(0,0,0,.1); }
+.content-image { display:block; max-width:100%; height:auto; border-radius:.375rem; box-shadow:0 2px 4px rgba(0,0,0,.08); margin:2rem auto; }
+.content-image-float { max-width:400px; height:auto; border-radius:.375rem; box-shadow:0 2px 4px rgba(0,0,0,.08); }.full-width-image { margin-inline:-15px; }.full-width-image img { width:100%; height:auto; border-radius:0; }.image-caption { font-size:.9rem; color:#6c757d; text-align:center; margin-top:.5rem; font-style:italic; }
+.mt-6 { margin-top:4rem; }.mb-6 { margin-bottom:4rem; }.py-6 { padding-top:4rem; padding-bottom:4rem; }.text-gradient { background:linear-gradient(135deg,#667eea 0%,#764ba2 100%); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
+@keyframes fadeIn { from { opacity:0; transform:translateY(20px); } to { opacity:1; transform:translateY(0); } }.fade-in { animation:fadeIn .6s ease-out; }
+a:focus, button:focus, .btn:focus { outline:2px solid #0d6efd; outline-offset:2px; }.skip-to-content { position:absolute; top:-40px; left:0; background:#0d6efd; color:#fff; padding:8px; text-decoration:none; z-index:9999; }.skip-to-content:focus { top:0; }
+@media (max-width: 767.98px) { .page-title { font-size:2rem; }.section-heading { font-size:1.5rem; }.lead { font-size:1.1rem; }.btn { font-size:.9rem; padding:.6rem 1.2rem; }.hero-image { border-radius:.25rem; margin-bottom:1.5rem; }.content-image { margin:1.5rem auto; }.content-image-float { float:none!important; max-width:100%; margin:1rem 0; }.full-width-image { margin-inline:0; }.footer-content { flex-direction:column; }.nav-toggle { display:block; }.site-nav { display:none; width:100%; }.site-header.nav-open .site-nav { display:block; }.nav-shell { flex-wrap:wrap; padding:.5rem 0; }.site-nav ul { align-items:stretch; flex-direction:column; gap:0; }.site-nav a, .dropdown-trigger { width:100%; text-align:left; }.dropdown-menu { position:static; min-width:0; max-height:none; box-shadow:none; }.dropdown:hover .dropdown-menu { display:none; }.dropdown:focus-within .dropdown-menu { display:block; } }
+@media (min-width:768px) and (max-width:991.98px) { .page-title { font-size:2.25rem; } }
