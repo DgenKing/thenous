@@ -1,0 +1,6 @@
+---
+import { getCollection } from 'astro:content'; import BaseLayout from '../../../layouts/BaseLayout.astro';
+export async function getStaticPaths(){const all=await getCollection('chapters');return [...new Set(all.map(x=>x.data.part))].map(part=>({params:{part}}));}
+const { part }=Astro.params; const chapters=(await getCollection('chapters')).filter(x=>x.data.part===part).sort((a,b)=>a.data.order-b.data.order); const title=chapters[0]!.data.partTitle;
+---
+<BaseLayout title={title} description={`Chapters in ${title}.`} canonicalPath={`/pages/${part}/`}><div class="container content-wrap"><h1 class="page-title">{title}</h1><div class="chapter-list">{chapters.map(c=><article class="chapter-card"><h3><a href={`/pages/${part}/${c.id.split('/').at(-1)}/`}>{c.data.title}</a></h3><p>{c.data.description}</p><a class="btn" href={`/pages/${part}/${c.id.split('/').at(-1)}/`}>Read chapter</a></article>)}</div></div></BaseLayout>

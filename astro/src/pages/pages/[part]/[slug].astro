@@ -1,0 +1,30 @@
+---
+import { render } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { sortedChapters, chapterSlug, chapterPath } from '../../../lib/site';
+
+export async function getStaticPaths() {
+  const chapters = await sortedChapters();
+  return chapters.map((entry, i) => ({
+    params: { part: entry.data.part, slug: chapterSlug(entry) },
+    props: {
+      entry,
+      prev: i > 0 ? { href: chapterPath(chapters[i - 1]!), title: chapters[i - 1]!.data.title } : null,
+      next: i < chapters.length - 1 ? { href: chapterPath(chapters[i + 1]!), title: chapters[i + 1]!.data.title } : null,
+    },
+  }));
+}
+
+const { entry, prev, next } = Astro.props;
+const { Content } = await render(entry);
+const path = chapterPath(entry);
+---
+<BaseLayout title={entry.data.title} description={entry.data.description} canonicalPath={path} ogImage={entry.data.ogImage ?? entry.data.heroImage}>
+  {entry.data.heroImage && <img class="hero-image" src={entry.data.heroImage} alt="" />}
+  <div class="container content-wrap"><nav aria-label="breadcrumb"><ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList"><li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href="/"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" href={`/pages/${entry.data.part}/`}><span itemprop="name">{entry.data.partTitle}</span></a><meta itemprop="position" content="2" /></li><li class="breadcrumb-item active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><span itemprop="name">{entry.data.title}</span><meta itemprop="position" content="3" /></li></ol></nav><h1 class="page-title">{entry.data.title}</h1><Content />
+    <nav class="page-navigation" aria-label="Page navigation">
+      {prev ? <a class="btn" href={prev.href}>← {prev.title}</a> : <span />}
+      {next ? <a class="btn" href={next.href}>{next.title} →</a> : <span />}
+    </nav>
+  </div>
+</BaseLayout>
