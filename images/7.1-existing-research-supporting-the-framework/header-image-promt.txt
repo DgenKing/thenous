@@ -1,0 +1,9 @@
+Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
+Depict a complex, interconnected network of glowing data points, research papers, and scientific instruments, symbolizing "existing research supporting the framework."
+At the center, a vibrant nexus of energy represents the core framework, with threads extending outwards to various scientific concepts.
+Integrate visual cues from "PEAR laboratory results" (e.g., subtle patterns of intention influencing random events), "Rupert Sheldrake's morphic resonance" (e.g., faint, echoing forms or fields), and "quantum effects in microtubules" (e.g., glowing, intricate microscopic structures within a larger biological context).
+The overall composition should convey a sense of scientific validation and a "recent acceleration" of understanding, with a mood of discovery and convergence.
+Color palette: cool blues and greens for the scientific data and instruments, with warm gold and white for the core framework and energy connections.
+Style: scientific, mystical, abstract, clean, no text, no people.
+Mood: "Scientific evidence converging to support a new understanding of reality."
+Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

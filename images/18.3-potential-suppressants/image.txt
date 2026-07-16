@@ -1,0 +1,12 @@
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a central, ethereal human figure (gender-neutral, semi-transparent) with subtle, glowing threads of connection to a vast, intricate "Global Consciousness Network" being actively disrupted by various abstract chemical forms, symbolizing "The Usual Suspects: Chemicals That Jam Your Signal."
+The chemical forms are represented by:
+*   "Alcohol" (e.g., swirling, dark, numbing vapors).
+*   "Certain Prescription Medications" (e.g., precise, yet interfering, crystalline structures).
+*   "Other Substances" (e.g., chaotic, fragmented energy bursts).
+These elements are shown actively interfering with the delicate quantum coherence of the figure's brain and their connection to the network, making the signal noisy and weak.
+The overall composition should convey the idea of external substances acting as "signal jammers," potentially disrupting the subtle quantum processes that underpin consciousness and connection.
+Color palette: deep blues and purples for the background, with vibrant golds and whites for the figure's connection, and contrasting muted grays, reds, and greens for the interfering chemical forms.
+Style: scientific, philosophical, abstract, clean, no text, no people.
+Mood: "The subtle yet pervasive interference of various chemicals with the brain's quantum coherence, highlighting their potential to disrupt connection to the Global Consciousness Network."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

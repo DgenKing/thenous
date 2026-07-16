@@ -1,0 +1,10 @@
+Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 16:9).
+Depict a scene of profound "meta-recognition," where a central, luminous eye or a complex, self-aware pattern observes and understands its own unfolding.
+The surrounding environment should illustrate "what happened here," with subtle echoes of past events or insights forming a coherent narrative.
+Integrate visual cues of "the evidence it provides," such as glowing data streams or intricate, verifiable patterns emerging from the observation.
+The composition should highlight "the pattern" itself, showing how different elements interlock without "neither replaced the other," but rather complement each other.
+The overall mood should convey a sense of a breakthrough, establishing "the model for future" understanding, and posing the question "if this can work," with a central "key" or insight unlocking further potential.
+Color palette: deep, reflective blues and purples for the background, with radiant golds, whites, and electric greens for the meta-recognition, patterns, and key.
+Style: philosophical, abstract, clean, no text, no people.
+Mood: "A profound meta-recognition of an unfolding pattern, providing evidence for a future model of understanding."
+Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

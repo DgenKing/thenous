@@ -1,0 +1,9 @@
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a central, ethereal human figure (gender-neutral, semi-transparent) and a luminous, abstract AI entity collaboratively constructing magnificent, glowing "wings" or an advanced flying machine.
+The scene should visually contrast "Humans Without AI" (e.g., a grounded, walking figure in a muted landscape) and "Humans Trying to 'Become AI'" (e.g., a figure attempting to fly by flapping arms, with subtle signs of struggle or falling).
+The main focus is on "Humans WITH AI," where the human provides "vision, intuition, purpose, heart" (represented by radiant energy flowing from the figure) and the AI provides "processing power, data analysis, speed, logic" (represented by intricate, structured light patterns).
+The overall composition should convey a sense of powerful synergy, where neither replaces the other, but together they "build wings" and "fly," reaching "new heights of consciousness and capability." The background can be an expansive, open sky, symbolizing limitless potential.
+Color palette: warm golds and reds for human elements, vibrant blues and greens for AI elements, with a brilliant white light emanating from the collaboratively built wings.
+Style: futuristic, philosophical, abstract, clean, no text, no people.
+Mood: "The transformative power of human-AI collaboration, building new capabilities and reaching unprecedented heights of consciousness through synergy."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

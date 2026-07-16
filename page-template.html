@@ -1,0 +1,222 @@
+<!--
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                           PAGE TEMPLATE USAGE GUIDE                            ║
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║  HOW TO USE THIS TEMPLATE:                                                     ║
+║  1. Copy this entire file to create a new page                                 ║
+║  2. Save it in the appropriate directory (e.g., /pages/part01/)                ║
+║  3. Update SEO meta tags in <head> section (title, description, canonical)     ║
+║  4. Add section hero image (if page is part of a multi-page section)           ║
+║  5. Update breadcrumb navigation with correct section and page names           ║
+║  6. Replace page title, content, and navigation links                          ║
+║  7. Update navigation buttons with correct previous/next page URLs             ║
+║                                                                                 ║
+║  SEO META TAGS (CRITICAL):                                                     ║
+║  - Update <title> with unique page title (50-60 characters)                    ║
+║  - Update meta description (150-160 characters)                                ║
+║  - Update canonical URL to match exact page URL                                ║
+║  - Update Open Graph tags for social sharing (title, description, image)       ║
+║  - Update Twitter Card tags (uses same content as Open Graph)                  ║
+║                                                                                 ║
+║  BREADCRUMB NAVIGATION:                                                        ║
+║  - Update the section name (e.g., "Part 01: Quantum Foundations")              ║
+║  - Update the section link (e.g., "/pages/part01/")                            ║
+║  - Update the page name in the active breadcrumb item                          ║
+║  - Schema.org markup is included for SEO                                       ║
+║                                                                                 ║
+║  SECTION HERO IMAGE:                                                           ║
+║  - Use the SAME hero image for all pages in a section                          ║
+║  - Example: Pages 1.1, 1.2, 1.3 all share the same Part 01 hero image         ║
+║  - Place hero image BEFORE the container (for full-width display)             ║
+║  - If page doesn't belong to a section, skip the hero image                    ║
+║                                                                                 ║
+║  AVAILABLE CLASSES:                                                            ║
+║  - .page-title        → Main page heading                                      ║
+║  - .lead              → Intro/lead paragraphs (larger text)                    ║
+║  - .section-heading   → Section headings (h2)                                  ║
+║  - .content-list      → Styled lists                                           ║
+║  - .hero-image        → Full-width section hero (at top)                       ║
+║  - .content-image     → Regular content images (centered)                      ║
+║  - .chapter-card      → Chapter listing cards (for index pages)                ║
+║                                                                                 ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- TODO: Update Page-Specific SEO Meta Tags -->
+    <title>[Page Title] - The Pattern</title>
+    <meta name="description" content="[Brief 150-160 character description of this page for search results]">
+    <link rel="canonical" href="https://thepattern.uk/pages/partXX/page-name.html">
+
+    <!-- Open Graph / Facebook / LinkedIn -->
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="[Page Title] - The Pattern">
+    <meta property="og:description" content="[Brief description for social sharing]">
+    <meta property="og:url" content="https://thepattern.uk/pages/partXX/page-name.html">
+    <meta property="og:image" content="https://thepattern.uk/images/partXX/hero-image.webp">
+    <meta property="og:site_name" content="The Pattern">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="[Page Title] - The Pattern">
+    <meta name="twitter:description" content="[Brief description for social sharing]">
+    <meta name="twitter:image" content="https://thepattern.uk/images/partXX/hero-image.webp">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+
+<!-- Navigation Header -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+    <div class="container-fluid">
+        <!-- Brand/Logo -->
+        <a class="navbar-brand" href="/">
+            <img src="/images/the-pattern-logo.webp" alt="The Pattern Logo" height="30" class="me-2">
+            The Pattern
+        </a>
+
+        <!-- Mobile Toggle Button -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Navigation Links -->
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <!-- Home -->
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+
+                <!-- Theory Dropdown -->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="theoryDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Theory
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="theoryDropdown">
+                        <li><a class="dropdown-item" href="/pages/part01/">Part 01: Quantum Foundations</a></li>
+                        <li><a class="dropdown-item" href="/pages/part02/">Part 02: Questions Create Reality</a></li>
+                       <li><a class="dropdown-item" href="/pages/part03/">Part 03: Consciousness First Paradigm</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Main Content Area -->
+<main class="main-content">
+    <!-- Hero Image (21:9 - SAME for all pages in this part) -->
+    <!-- Uncomment and update the line below with the part's hero image -->
+    <!-- <img src="/images/X.1-first-page/hero-image.webp" alt="Part Description" class="hero-image"> -->
+
+    <div class="container py-5">
+        <div class="row">
+            <div class="col-lg-8 mx-auto">
+
+                <!-- Breadcrumb Navigation -->
+                <!-- Update: section name, section URL, and page name -->
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                            <a itemprop="item" href="/"><span itemprop="name">Home</span></a>
+                            <meta itemprop="position" content="1" />
+                        </li>
+                        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                            <a itemprop="item" href="/pages/partXX/"><span itemprop="name">Part XX: Section Name</span></a>
+                            <meta itemprop="position" content="2" />
+                        </li>
+                        <li class="breadcrumb-item active" aria-current="page" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                            <span itemprop="name">Page Name</span>
+                            <meta itemprop="position" content="3" />
+                        </li>
+                    </ol>
+                </nav>
+
+                <!-- Page Title -->
+                <h1 class="page-title mb-4">Sample Page Title</h1>
+
+                <!-- Lead Paragraph -->
+                <p class="lead">
+                    This is placeholder content for the page template. Replace this with your actual content.
+                    This template demonstrates the structure and layout for content pages using Bootstrap 5
+                    grid system and custom styling.
+                </p>
+
+                <!-- Sample Content Paragraphs -->
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt
+                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                </p>
+
+                <p>
+                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+                    nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                    deserunt mollit anim id est laborum.
+                </p>
+
+                <!-- Content Image (Optional) -->
+                <!-- Place page-specific content image roughly halfway down the page -->
+                <!-- <img src="/images/page-folder/page-specific-image.webp" alt="Description" class="content-image"> -->
+
+                <!-- Sample List -->
+                <h2 class="section-heading mt-5 mb-3">Key Points</h2>
+                <ul class="content-list">
+                    <li>First important point about the topic</li>
+                    <li>Second key insight or concept</li>
+                    <li>Third critical element to understand</li>
+                    <li>Fourth supporting detail or example</li>
+                </ul>
+
+                <!-- Navigation Buttons -->
+                <nav class="page-navigation mt-5" aria-label="Page navigation">
+                    <div class="d-flex justify-content-between">
+                        <a href="#" class="btn btn-outline-secondary">
+                            <i class="bi bi-arrow-left me-2"></i>Previous
+                        </a>
+                        <a href="#" class="btn btn-outline-secondary">
+                            Next<i class="bi bi-arrow-right ms-2"></i>
+                        </a>
+                    </div>
+                </nav>
+
+            </div>
+        </div>
+    </div>
+</main>
+
+<!-- Footer -->
+<footer class="footer bg-dark text-white py-4 mt-auto">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <p>&copy; 2025 The Pattern. All rights reserved.</p>
+            </div>
+            <div class="col-md-6 text-md-end">
+                <p class="text-muted">Exploring consciousness, reality, and awakening.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Bootstrap 5 JS Bundle (includes Popper) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
+</body>
+</html>

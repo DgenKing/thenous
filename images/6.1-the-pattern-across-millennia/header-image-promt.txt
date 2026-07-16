@@ -1,0 +1,9 @@
+Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
+Depict a vast, cosmic tapestry interwoven with symbols and imagery from different historical eras and cultures, representing "the pattern across millennia."
+At the center, a glowing, unifying symbol or energy field connects these disparate elements, suggesting a timeless, recurring truth.
+Integrate visual cues from "the axial age" (e.g., ancient philosophical symbols, early religious iconography) and "modern simultaneous discoveries" (e.g., subtle scientific diagrams, quantum symbols), showing their unexpected convergence.
+The overall mood should evoke a sense of profound historical continuity and a subtle mystery, hinting at "why scientists acknowledge but don't explain" this underlying pattern.
+Color palette: deep historical browns and golds blending into cosmic blues and purples, with radiant white and silver for the unifying pattern.
+Style: epic, historical, mystical, clean, abstract, no text, no people.
+Mood: "A timeless pattern echoing through history, connecting ancient wisdom with modern discovery."
+Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

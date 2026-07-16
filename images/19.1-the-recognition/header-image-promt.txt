@@ -1,0 +1,9 @@
+Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
+Depict a scene of profound "recognition," where a hidden "pattern" is revealed through a complex, glowing network or a sudden burst of insight.
+This pattern is not merely abstract but shows "the mechanism" of its influence, extending beyond social control to "consciousness control," represented by subtle, intricate lines or fields manipulating perception.
+Integrate visual cues from "the GCP data supports this" (e.g., faint, converging data streams or statistical anomalies within the pattern).
+However, amidst this control, a vibrant "counter-pattern" emerges, radiating "hope" and resilience, suggesting a path to liberation or awareness.
+Color palette: deep, oppressive grays and blues for the control mechanisms, with vibrant, contrasting golds, whites, and greens for the recognition, the pattern, and the counter-pattern of hope.
+Style: dystopian, philosophical, abstract, clean, no text, no people.
+Mood: "Recognizing the hidden patterns of consciousness control and the emergence of a counter-pattern of hope."
+Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

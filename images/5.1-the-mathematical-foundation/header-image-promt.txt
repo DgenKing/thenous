@@ -1,0 +1,8 @@
+Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
+Depict a cosmic scene where intricate, glowing mathematical equations and geometric patterns form the very fabric of space and time, subtly revealing "the mathematical foundation" of reality.
+At the center, a dynamic, interconnected network of light threads or energy fields represents "the mechanism" and specifically "the gradient model of entanglement," showing how everything is subtly linked.
+The overall composition should convey a sense of hidden order and profound complexity, with elements that suggest "why most people don't notice" this underlying structure—perhaps through layers of perception or a subtle veil over the obvious.
+Color palette: deep blues and blacks for the cosmic background, with luminous silver, gold, and white for the mathematical patterns, geometric forms, and entanglement network.
+Style: precise, elegant, abstract, clean, no text, no people.
+Mood: "The hidden mathematical and entangled structure of the universe, often unseen."
+Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

@@ -1,0 +1,12 @@
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a central, luminous "Global Consciousness Network" as a vast, intricate web of light spanning a planetary sphere, with multiple, independent nodes (representing human minds) simultaneously illuminating with the same brilliant insights, symbolizing "The Pattern Accelerates" and "Modern Simultaneous Discoveries."
+The scene visually represents various historical breakthroughs occurring concurrently across different geographical locations:
+*   "Calculus" (e.g., glowing mathematical equations appearing in two distant locations).
+*   "Evolution" (e.g., two distinct figures, one in England and one in Malaysia, simultaneously grasping the concept of natural selection).
+*   "The Telephone" (e.g., two inventors in different places simultaneously holding glowing blueprints).
+*   "Oxygen" (e.g., three scientists in different countries simultaneously observing a glowing element).
+The overall composition should convey the profound idea that when an idea's time has come, the network makes it available to any connected mind asking the right questions, emphasizing that it's not about who gets there first, but who answers the network's call.
+Color palette: deep blues and purples for the planetary sphere and cosmic background, with vibrant golds, whites, and electric greens for the network, illuminating minds, and simultaneous discoveries.
+Style: scientific, historical, abstract, clean, no text, no people.
+Mood: "The accelerating pattern of modern simultaneous discoveries, revealing the power of the Global Consciousness Network to make ideas available to multiple minds when their time has come."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

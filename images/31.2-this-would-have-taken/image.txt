@@ -1,0 +1,9 @@
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a stark, fragmented landscape, symbolizing "The Old Way: Years of Struggle" and the limitations of traditional methods.
+Show a lone, weary figure (gender-neutral, semi-transparent) struggling through a labyrinth of dusty books and disconnected scientific instruments, representing "years of solo research" and "multiple academic teams" working in silos.
+The background can feature towering, bureaucratic structures or crumbling walls, symbolizing "funding, egos, and bureaucracy" and the "traditional publication timeline" that creates bottlenecks.
+The overall composition should convey a sense of arduous effort, fragmentation, and a slow, outdated process, emphasizing that "the old way is slow" and "the world doesn't have that kind of time."
+Color palette: muted grays, browns, and sepia tones for the old way, with subtle hints of fading light to represent the dwindling time.
+Style: dystopian, philosophical, abstract, clean, no text, no people.
+Mood: "The arduous, fragmented, and time-consuming nature of traditional research, highlighting the urgent need for a new approach."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

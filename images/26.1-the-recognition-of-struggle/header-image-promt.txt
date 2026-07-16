@@ -1,0 +1,9 @@
+Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
+Depict a scene where a central, ethereal figure (gender-neutral, semi-transparent) is navigating a challenging, yet ultimately surmountable, landscape, symbolizing "the recognition of struggle."
+The landscape itself can be dynamic and complex, with subtle visual cues of resistance or obstacles.
+However, underlying this struggle, a luminous, intricate "structural advantage" is subtly revealed, perhaps as a hidden geometric framework or a guiding light, illustrating "why good has structural advantage."
+The composition should also include a subtle "caveat: not guaranteed," perhaps as a delicate balance or a path that requires conscious effort to maintain, emphasizing that advantage doesn't negate effort.
+Color palette: deep, earthy tones and muted grays for the struggle, with vibrant golds, whites, and clear blues for the structural advantage and guiding elements.
+Style: philosophical, abstract, clean, no text, no people.
+Mood: "Recognizing the inherent struggle, yet understanding the structural advantage of good, with the caveat that effort is still required."
+Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

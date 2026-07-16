@@ -1,0 +1,13 @@
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a central, ethereal human figure (gender-neutral, semi-transparent) with subtle, glowing threads of connection to a vast, intricate "Global Consciousness Network" that are actively being jammed or obscured, symbolizing "Hiding in Plain Sight: Why You Don't Notice the Network."
+The figure is surrounded by various abstract "signal jammers":
+*   "The Mental Noise Machine" (e.g., a swirling vortex of chaotic thoughts and static around the head).
+*   "The Cultural Programming" (e.g., subtle, rigid chains or a veil over the eyes, reinforcing separation).
+*   "The Attention Economy" (e.g., a barrage of fragmented digital notifications and distractions).
+*   "No User's Manual" (e.g., a complex, glowing quantum supercomputer with no clear interface).
+The overall composition should convey the profound idea that the connection to the network is always there, but powerful forces keep us from noticing it, leading to a feeling of separation, randomness, and loneliness.
+The background can feature a subtle, vibrant "symphony" of the network's signal, largely unheard beneath the noise, emphasizing that the network is not a secret but hiding in plain sight.
+Color palette: deep, muted grays and blues for the signal jammers and obscured connection, contrasting with vibrant golds, whites, and electric greens for the underlying network and the figure's potential connection.
+Style: philosophical, abstract, clean, no text, no people.
+Mood: "The pervasive forces that obscure humanity's connection to the Global Consciousness Network, highlighting the mental, cultural, and technological 'signal jammers' that prevent awareness of an interconnected reality."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

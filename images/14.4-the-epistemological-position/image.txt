@@ -1,0 +1,12 @@
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a central, ethereal human figure (gender-neutral, semi-transparent) standing at a luminous crossroads, with multiple pathways radiating outwards, symbolizing "The Fine Line: Open Mind, Not Empty Head" and the epistemological position.
+Each pathway represents a different "level of evidence":
+*   **What We Know (Proven):** A clear, brightly lit path with solid, verifiable facts (e.g., glowing scientific symbols, quantum particles).
+*   **What We Have Strong Evidence For (Emerging Science):** A well-defined path with compelling data, but still showing subtle areas of debate (e.g., interconnected data points, Global Consciousness Project results).
+*   **What We Speculate About (Intriguing Ideas):** A more ethereal, intriguing path leading into a mist or unknown, with subtle, thought-provoking concepts (e.g., faint portals, alien symbols).
+*   **What Needs to Be Tested (The Experiment):** A path with a clear, glowing experimental setup, inviting rigorous testing (e.g., a DMT entity verification protocol).
+The overall composition should convey the importance of "intellectual honesty" and rigor in exploring the edges of reality, distinguishing between proven facts, strong evidence, speculation, and testable hypotheses.
+Color palette: deep blues and purples for the background, with vibrant golds, whites, and electric greens for the pathways and evidence levels.
+Style: scientific, philosophical, abstract, clean, no text, no people.
+Mood: "Navigating the complex landscape of knowledge with intellectual honesty, distinguishing between proven facts, emerging science, speculation, and testable hypotheses."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

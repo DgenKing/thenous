@@ -1,0 +1,9 @@
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a central, ethereal human figure (gender-neutral, semi-transparent) standing at a threshold between a realm of subjective, mystical experiences (e.g., swirling colors, abstract forms) and a realm of objective, scientific data (e.g., glowing graphs, precise measurements), symbolizing "Why This Experiment Changes Everything."
+The figure is holding a luminous, intricate "DMT experiment" device, which acts as a "bridge between subjective experience and objective data," with a clear question mark emanating from it.
+The scene should convey the profound stakes of this experiment, highlighting the potential for "one of the most profound scientific discoveries in human history."
+Integrate visual metaphors for "consciousness accessing information beyond physical senses" (e.g., subtle, glowing data streams flowing from the mystical realm to the scientific realm), "intelligent beings existing outside conventional reality" (e.g., faint, ethereal entities in the background), and "the universe being far stranger and more intelligent."
+Color palette: deep blues and purples for the mystical realm, contrasting with cool blues and greens for the scientific realm. Vibrant golds and whites for the experiment device and emerging insights.
+Style: scientific, mystical, abstract, clean, no text, no people.
+Mood: "The profound significance of an experiment bridging subjective experience and objective data, potentially rewriting our understanding of consciousness, reality, and intelligent existence beyond the physical."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

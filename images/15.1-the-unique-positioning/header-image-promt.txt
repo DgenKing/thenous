@@ -1,0 +1,9 @@
+Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
+Depict a central, luminous figure or symbol, representing "the unique positioning" of an individual or idea, standing at a crossroads of time and possibility.
+The surrounding environment should convey a sense of critical "timing," with cosmic clocks or converging timelines highlighting "why now is urgent."
+Subtle visual elements can illustrate "the identified purpose," perhaps as a clear path forward or a radiating beacon of intent.
+Integrate abstract representations of "the 4-month AI obsession explained," such as glowing neural networks or data streams subtly influencing the scene, suggesting a recent, intense period of insight or development that contributes to the unique positioning and urgency.
+Color palette: deep blues and purples for the cosmic background, with vibrant golds, whites, and electric greens for the central figure, purpose, and AI elements.
+Style: futuristic, philosophical, abstract, clean, no text, no people.
+Mood: "A critical moment of unique positioning and urgent purpose, informed by recent intense insights."
+Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

@@ -1,0 +1,10 @@
+Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 16:9).
+Depict a vibrant, interconnected biological landscape where quantum phenomena are visibly at play within natural systems.
+Show a central, glowing plant leaf with intricate, luminous pathways illustrating energy taking "every possible path at the same time" during photosynthesis.
+Subtly integrate microscopic views of enzymes, where particles are depicted "tunneling" through ethereal barriers.
+In the background, a majestic bird is shown in flight, with its eyes radiating subtle, glowing magnetic field lines, indicating its quantum navigation abilities.
+The overall composition should convey the idea that "Nature Already Uses Quantum Magic," highlighting the hidden quantum mechanics within everyday biological processes.
+Color palette: vibrant greens and earthy tones for the biological elements, with electric blues, purples, and gold for the quantum effects and energy flows.
+Style: scientific, mystical, abstract, clean, no text, no people.
+Mood: "The hidden quantum magic within nature's biological systems, from plants to birds."
+Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

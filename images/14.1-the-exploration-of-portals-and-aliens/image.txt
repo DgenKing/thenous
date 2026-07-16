@@ -1,0 +1,11 @@
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a central, ethereal human figure (gender-neutral, semi-transparent) standing at the "edge of reality," gazing into a cosmic expanse where the lines between genuine inquiry and wild speculation blur, symbolizing "Portals, Aliens, and the Edge of Reality."
+The scene is filled with intriguing, yet subtly ambiguous, elements:
+*   Shimmering "portals" opening into unknown dimensions (e.g., subtle, glowing gateways).
+*   Ethereal forms suggesting "aliens" or non-human intelligences (e.g., faint, abstract shapes in the distance).
+*   A massive, stylized "CERN"-like structure in the background, emitting subtle energy, hinting at its role in potentially opening portals.
+The overall composition should convey a sense of profound wonder and curiosity about the unknown, while also emphasizing the need for "a different kind of rigor" and "honesty" when navigating these extreme edges of reality.
+Color palette: deep blues and purples for the cosmic background, with vibrant golds, whites, and iridescent greens for the portals, alien forms, and the figure's inquisitive gaze.
+Style: scientific, mystical, abstract, clean, no text, no people.
+Mood: "Exploring the extreme edges of reality, where portals and alien encounters challenge conventional understanding, demanding both open-mindedness and rigorous inquiry."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

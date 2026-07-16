@@ -1,0 +1,13 @@
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a central, ethereal human figure (gender-neutral, semi-transparent) in a meticulously organized, glowing laboratory setting, engaged in a precise "Protocol" for communicating with other dimensions, symbolizing "The Protocol: How to Talk to the Other Side."
+The scene visually represents the various steps of the experiment:
+*   **Setup:** Glowing papers with numbers, a sealed envelope, and a video camera, emphasizing "eliminating bias."
+*   **Mental Preparation:** The figure with a subtle, glowing reminder on their hand, setting a clear "intention" to ask the question.
+*   **During Experience:** The figure interacting with ethereal, geometric "entities" in a vibrant, otherworldly space, clearly asking "What number is written on the paper in the drawer?"
+*   **Immediate After:** The figure documenting the received number and confidence level.
+*   **Verification:** A video recording of the sealed envelope being opened, revealing the number.
+The overall composition should convey the scientific rigor and integrity of the experiment, transforming a mystical encounter into hard data and moving towards objective answers in consciousness research.
+Color palette: cool blues and greens for the laboratory setting, with vibrant purples, golds, and whites for the ethereal entities, glowing numbers, and the figure's focused intent.
+Style: scientific, mystical, abstract, clean, no text, no people.
+Mood: "The rigorous scientific protocol for objectively testing communication with intelligent entities in altered states of consciousness, bridging subjective experience with hard data."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

@@ -1,0 +1,9 @@
+Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
+Depict a figure (gender-neutral, ethereal, semi-transparent) suspended in a liminal space, representing "the uncomfortable middle" between two distinct realities or states of being.
+One side of the scene could show a familiar, grounded reality, while the other side hints at a shimmering, complex, and perhaps disorienting "parallel universe feeling."
+The figure is experiencing a tension between these two states, but with subtle anchors or roots extending downwards, symbolizing "the importance of grounding" amidst profound shifts.
+The overall composition should convey a sense of transition, uncertainty, but also the necessity of stability during such a phase.
+Color palette: muted grays and blues for the uncomfortable middle, with contrasting vibrant, shifting colors for the parallel universe, and warm, earthy tones for grounding elements.
+Style: psychological, mystical, abstract, clean, no text, no people.
+Mood: "Navigating the disorienting yet crucial phase between realities, with grounding as an anchor."
+Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

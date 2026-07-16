@@ -1,0 +1,10 @@
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a central, glowing, intricate data visualization, symbolizing "The Odds: What the Numbers Will Tell Us," where streams of numerical data flow and coalesce into distinct patterns.
+The visualization clearly shows a spectrum from "Pure Chance" (e.g., chaotic, random data points) to "Statistically Significant" (e.g., emerging, coherent patterns) and "Highly Significant" (e.g., strong, undeniable patterns of light).
+A human figure (gender-neutral, semi-transparent) is observing this data, with a look of scientific inquiry and anticipation, as the results of "20 trials or more" of a DMT experiment unfold.
+The overall composition should convey the profound importance of statistical analysis in transforming mystical experiences into hard data, moving from belief to knowing.
+The background can feature subtle, ethereal entities or abstract forms, representing the source of the information being tested.
+Color palette: cool blues and greens for the data visualization, with vibrant golds and whites for the statistically significant patterns and the figure's insights.
+Style: scientific, philosophical, abstract, clean, no text, no people.
+Mood: "The rigorous statistical analysis of experimental data, revealing the profound implications of results that transcend pure chance and move from belief to scientific knowing."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

@@ -1,0 +1,9 @@
+Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
+Show a glowing human brain floating in deep cosmic space, semi-transparent, with its neural networks visibly pulsing with soft light.
+Inside the brain’s structure, embed subtle quantum phenomena: shimmering particles in superposition, tiny wave interference patterns, and microtubule-like glowing filaments humming with energy.
+Around the brain, show faint biological motifs — leaf veins (for photosynthesis), bird silhouettes (for navigation), enzyme structures — all glowing softly, symbolizing quantum effects in nature.
+Color palette: deep indigo cosmos, electric blue neural paths, gold-white quantum sparks, emerald green bio accents.
+Style: mystical scientific realism — awe-inspiring, clean, slightly abstract, no text, no people.
+Mood: “The brain is a biological quantum computer — and nature has been using quantum magic all along.”
+Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.
+
