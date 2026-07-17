@@ -4,9 +4,10 @@ import { partsNav } from '../lib/site';
 const parts = await partsNav();
 ---
 
-<BaseLayout title="The Nous" description="An exploration of consciousness, reality, and awakening through the interconnected ideas collected in The Nous.">
+<BaseLayout title="The Nous" description="Where consciousness comes first — a journey through reality, mind, and awakening.">
   <div class="container content-wrap">
     <h1 class="page-title">The Nous</h1>
+    <p class="lead">Where consciousness comes first — exploring reality, mind, and awakening.</p>
     <div class="chapter-list">{parts.map((part) => <article class="chapter-card"><h3><a href={part.href}>{part.title}</a></h3></article>)}</div>
   </div>
 </BaseLayout>

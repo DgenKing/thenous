@@ -14,7 +14,7 @@ const { title, description, canonicalPath = '/', ogImage } = Astro.props;
 const parts = await partsNav();
 const progress = await progressData();
 const canonical = new URL(canonicalPath, Astro.site);
-const socialTitle = `${title} - The Nous`;
+const socialTitle = title === 'The Nous' ? 'The Nous' : `${title} - The Nous`;
 const imageUrl = ogImage ? new URL(ogImage, Astro.site).href : undefined;
 ---
 
