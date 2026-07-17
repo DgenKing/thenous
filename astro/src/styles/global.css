@@ -43,6 +43,8 @@ body { display:flex; flex-direction:column; min-height:100vh; margin:0; font-fam
 .footer { flex-shrink:0; background:#212529; color:#fff; padding:1.5rem 0; }
 .footer-content { width:min(100% - 2rem, 1140px); margin:auto; display:flex; justify-content:space-between; gap:1rem; }
 .footer p { margin:0; }.footer .text-muted { color:#adb5bd; }
+.contact-link { color:#fff; text-decoration:none; border-bottom:1px solid rgba(255,255,255,.4); cursor:pointer; }
+.contact-link:hover { color:#0d6efd; border-bottom-color:#0d6efd; }
 .chapter-list { display:grid; gap:1rem; margin-top:2rem; }
 .chapter-card { padding:1.5rem; border-left:4px solid #0d6efd; background:#f8f9fa; border-radius:.375rem; transition:all .3s ease; }
 .chapter-card:hover { background:#e9ecef; border-left-color:#0a58ca; transform:translateX(5px); }

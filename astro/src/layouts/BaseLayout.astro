@@ -60,7 +60,7 @@ const imageUrl = ogImage ? new URL(ogImage, Astro.site).href : undefined;
       </div>
     </header>
     <main class="main-content" id="main-content"><slot /></main>
-    <footer class="footer"><div class="footer-content"><p>© 2026 The Nous. All rights reserved.</p><p class="text-muted">Exploring consciousness, reality, and awakening.</p></div></footer>
+    <footer class="footer"><div class="footer-content"><p>© 2026 The Nous. All rights reserved.</p><p><a id="contact-link" class="contact-link" href="#" rel="nofollow">Contact</a></p><p class="text-muted">Exploring consciousness, reality, and awakening.</p></div></footer>
     <script type="application/json" id="progress-data" set:html={JSON.stringify(progress)}></script>
     <script is:inline>
       const header = document.querySelector('.site-header');
@@ -145,6 +145,19 @@ const imageUrl = ogImage ? new URL(ogImage, Astro.site).href : undefined;
           obs.observe(nav);
         }
         render();
+      })();
+
+      // Spam-safe contact link: the address is assembled from encoded parts only
+      // on click, so it never appears in the HTML/DOM for scrapers to harvest.
+      (function () {
+        const link = document.getElementById('contact-link');
+        if (!link) return;
+        link.addEventListener('click', (e) => {
+          e.preventDefault();
+          const u = atob('ZGdlbmtpbmc=');
+          const d = atob('bWFpbC5jb20=');
+          window.location.href = 'mailto:' + u + '@' + d + '?subject=' + encodeURIComponent('The Nous');
+        });
       })();
     </script>
   </body>
