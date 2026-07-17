@@ -1,6 +1,6 @@
 ---
 title: 'Key Quotes'
-description: '“Key Quotes” is a chapter in The Pattern''s exploration of consciousness, reality, and awakening. It presents this section''s central perspective. It gives furthe'
+description: '“Key Quotes” is a chapter in The Nous''s exploration of consciousness, reality, and awakening. It presents this section''s central perspective. It gives furthe'
 part: 'appendices'
 partTitle: 'Appendices'
 order: 1

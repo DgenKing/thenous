@@ -1,6 +1,6 @@
 ---
 title: 'Acknowledgments And Context'
-description: '“Acknowledgments And Conte…” is a chapter in The Pattern''s exploration of consciousness, reality, and awakening. It presents this section''s central perspective.'
+description: '“Acknowledgments And Conte…” is a chapter in The Nous''s exploration of consciousness, reality, and awakening. It presents this section''s central perspective.'
 part: 'appendices'
 partTitle: 'Appendices'
 order: 5

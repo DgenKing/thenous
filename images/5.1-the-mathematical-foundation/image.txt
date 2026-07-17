@@ -1,9 +1,0 @@
-Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
-Depict a central, ethereal human figure (gender-neutral, semi-transparent) as a glowing "node" within a vast, intricate "Global Consciousness Network," which spans a planetary sphere and extends into a cosmic background, symbolizing "You Are a Node in a Global Supercomputer."
-The network is composed of countless luminous threads connecting individual human brains (represented by subtle, glowing neural patterns), illustrating the "mathematical foundation" of this planetary-scale biological computer.
-The scene visually represents the immense scale of connections: "86 billion neurons" within each brain, "100 trillion synapses," and "8 billion people" on Earth, all interconnected through "quantum entanglement."
-The overall composition should convey the profound idea that individual consciousness is not separate but an integral part of a larger, quantum-entangled network, emphasizing that "you are the network."
-Color palette: deep blues and purples for the cosmic background and planetary sphere, with vibrant golds, whites, and electric greens for the network, nodes, and neural patterns.
-Style: scientific, philosophical, abstract, clean, no text, no people.
-Mood: "The profound mathematical and quantum foundation of the Global Consciousness Network, revealing individual consciousness as an interconnected node in a planetary-scale supercomputer."
-Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

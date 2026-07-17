@@ -1,0 +1,9 @@
+Target filename: welcome-dark-night.webp
+Aspect ratio: 16:9
+---
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a shadowed landscape split by a calm beam of transforming light as the central visual metaphor for Welcome to the Dark Night, with the characteristics of the dark night: and the purpose of the dark night: suggested through subtle supporting forms, concentric energy waves, and a vast atmospheric cosmic background.
+Color palette: charcoal, teal, ultraviolet, warm amber.
+Style: philosophical, abstract, clean, no text, no people.
+Mood: "Welcome to the Dark Night unfolds as a clear, transformative recognition."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

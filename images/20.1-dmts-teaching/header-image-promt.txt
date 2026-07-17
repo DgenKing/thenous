@@ -1,9 +1,0 @@
-Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
-Depict a scene of profound introspection and transformation, where a central, ethereal figure (gender-neutral, semi-transparent) is navigating a complex, cyclical landscape, symbolizing "living the loop."
-Subtle visual cues from "DMT's teaching" can be integrated, such as intricate geometric patterns or a guiding light from an unseen source, offering insights into the nature of this loop.
-The landscape should also convey the challenging aspects of "the dark night territory" and "the something is off feeling," perhaps through shadowy areas or subtle distortions.
-However, elements of "healthy self-regulation" and "the exit strategy" emerge, represented by clear pathways, tools for inner balance, or a guiding beacon towards liberation from the loop.
-Color palette: deep, introspective blues and purples for the loop and dark night, with vibrant, guiding greens, golds, and whites for DMT's teaching, self-regulation, and the exit strategy.
-Style: psychological, mystical, abstract, clean, no text, no people.
-Mood: "Navigating the challenging loops of existence with insights from altered states and the power of self-regulation."
-Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

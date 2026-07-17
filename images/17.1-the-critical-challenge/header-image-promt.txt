@@ -1,9 +1,0 @@
-Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
-Depict a central, monumental, yet abstract "critical challenge" in the form of a complex, glowing puzzle or a formidable, ethereal barrier.
-Around this challenge, subtle visual elements illustrate "the two-phase process" required to overcome it, perhaps as two distinct but interconnected energy flows or pathways leading towards the solution.
-The background can feature fragmented or incomplete definitions, represented by dissolving text or broken geometric shapes, symbolizing "why most definitions are incomplete" in addressing this challenge.
-The overall composition should convey a sense of intellectual struggle and the necessity of a comprehensive, multi-faceted approach to understanding and overcoming profound obstacles.
-Color palette: deep, challenging reds and oranges for the critical challenge, contrasting with clear blues and whites for the process and emerging understanding. Muted grays for incomplete definitions.
-Style: philosophical, abstract, clean, no text, no people.
-Mood: "Confronting a critical challenge with a comprehensive process, transcending incomplete definitions."
-Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

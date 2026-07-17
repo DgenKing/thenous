@@ -1,0 +1,9 @@
+Target filename: use-key-process.webp
+Aspect ratio: 16:9
+---
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a luminous geometric focal point unfolding into a layered cosmic landscape as the central visual metaphor for How to Use the Key, with the chapter central insight suggested through subtle supporting forms, concentric energy waves, and a vast atmospheric cosmic background.
+Color palette: storm gray, sapphire, magenta, bright copper.
+Style: philosophical, abstract, clean, no text, no people.
+Mood: "How to Use the Key unfolds as a clear, transformative recognition."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

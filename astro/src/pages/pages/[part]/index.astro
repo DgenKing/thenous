@@ -1,6 +1,22 @@
 ---
-import { getCollection } from 'astro:content'; import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { chapterSlug, partsNav } from '../../../lib/site';
 export async function getStaticPaths(){const all=await getCollection('chapters');return [...new Set(all.map(x=>x.data.part))].map(part=>({params:{part}}));}
-const { part }=Astro.params; const chapters=(await getCollection('chapters')).filter(x=>x.data.part===part).sort((a,b)=>a.data.order-b.data.order); const title=chapters[0]!.data.partTitle;
+const { part } = Astro.params;
+const chapters = (await getCollection('chapters')).filter((chapter) => chapter.data.part === part).sort((a, b) => a.data.order - b.data.order);
+const title = chapters[0]!.data.partTitle;
+const parts = await partsNav();
+const currentPart = parts.findIndex((item) => item.href === `/pages/${part}/`);
+const nextPart = currentPart >= 0 ? parts[currentPart + 1] : undefined;
 ---
-<BaseLayout title={title} description={`Chapters in ${title}.`} canonicalPath={`/pages/${part}/`}><div class="container content-wrap"><h1 class="page-title">{title}</h1><div class="chapter-list">{chapters.map(c=><article class="chapter-card"><h3><a href={`/pages/${part}/${c.id.split('/').at(-1)}/`}>{c.data.title}</a></h3><p>{c.data.description}</p><a class="btn" href={`/pages/${part}/${c.id.split('/').at(-1)}/`}>Read chapter</a></article>)}</div></div></BaseLayout>
+<BaseLayout title={title} description={`Chapters in ${title}.`} canonicalPath={`/pages/${part}/`}>
+  <div class="container content-wrap">
+    <a class="btn" href="/">← Back to Home</a>
+    <h1 class="page-title mt-6">{title}</h1>
+    <div class="chapter-list">
+      {chapters.map((chapter) => <article class="chapter-card"><h3><a href={`/pages/${part}/${chapterSlug(chapter)}/`}>{chapter.data.title}</a></h3><p>{chapter.data.description}</p><a class="btn" href={`/pages/${part}/${chapterSlug(chapter)}/`}>Read chapter</a></article>)}
+    </div>
+    {nextPart && <nav class="page-navigation" aria-label="Part navigation"><span /><a class="btn" href={nextPart.href}>Next: {nextPart.title} →</a></nav>}
+  </div>
+</BaseLayout>

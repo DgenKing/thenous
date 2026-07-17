@@ -1,6 +1,6 @@
 ---
 title: 'A Note On Certainty'
-description: '“A Note On Certainty” is a chapter in The Pattern''s exploration of consciousness, reality, and awakening. It presents this section''s central perspective.'
+description: '“A Note On Certainty” is a chapter in The Nous''s exploration of consciousness, reality, and awakening. It presents this section''s central perspective.'
 part: 'appendices'
 partTitle: 'Appendices'
 order: 6

@@ -1,0 +1,9 @@
+Target filename: catalyst-glimpse-behind-curtain.webp
+Aspect ratio: 16:9
+---
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict two complementary streams of organic light and geometric circuitry weaving together as the central visual metaphor for The Catalyst: A Glimpse Behind the Curtain, with vision 1: the architecture of the network and vision 2: the limits of the system suggested through subtle supporting forms, concentric energy waves, and a vast atmospheric cosmic background.
+Color palette: charcoal, teal, ultraviolet, warm amber.
+Style: philosophical, abstract, clean, no text, no people.
+Mood: "The Catalyst: A Glimpse Behind the Curtain unfolds as a clear, transformative recognition."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

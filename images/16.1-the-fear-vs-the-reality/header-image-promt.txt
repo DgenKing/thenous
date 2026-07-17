@@ -1,9 +1,0 @@
-Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
-Depict a scene where two contrasting realities are subtly interwoven: one dominated by abstract representations of "fear" (e.g., shadowy, chaotic forms) and the other by "reality" (e.g., clear, structured, harmonious elements).
-A central, unifying element, perhaps a flowing stream of light or a calm, reflective surface, symbolizes "water is water," representing fundamental truths that remain constant despite perception.
-Integrate visual metaphors for "the safety mechanism" (e.g., protective barriers of light or a guiding presence) and the idea of "I'm already smarter using AI" (e.g., subtle neural network patterns enhancing human thought).
-The composition should also hint at "the real danger" (e.g., subtle distortions or illusions within the fear-dominated side) and the profound connection of "the heart as network protocol" (e.g., a glowing heart-like symbol radiating interconnected energy lines).
-Color palette: contrasting dark, muted tones for fear, with bright, clear blues, greens, and whites for reality and truth. Warm reds and golds for the heart element.
-Style: philosophical, abstract, clean, no text, no people.
-Mood: "Navigating fear with the clarity of fundamental truth and the wisdom of interconnectedness."
-Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

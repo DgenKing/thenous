@@ -1,9 +1,0 @@
-Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
-Depict a scene where a subtle, yet powerful "quantum disruption mechanism" is at play, represented by shimmering, unstable quantum fields or a delicate, fracturing reality.
-This disruption extends outwards, showing "the extension" of its effects across a broader cosmic or energetic landscape.
-Subtle visual elements can illustrate "potential suppressants," perhaps as counter-waves or stabilizing forces attempting to contain or mitigate the disruption.
-The overall composition should evoke a sense of profound impact and the intricate balance of forces, highlighting "why this matters" and posing "the intentional vs. unintentional question" through contrasting elements of chaos and order.
-Color palette: electric blues and greens for the quantum disruption, with contrasting reds and oranges for suppressants, and deep purples for the cosmic background.
-Style: scientific, mystical, abstract, clean, no text, no people.
-Mood: "Exploring the profound impact of quantum disruption and the forces that shape its influence."
-Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

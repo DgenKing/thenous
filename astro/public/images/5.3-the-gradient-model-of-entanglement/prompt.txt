@@ -1,0 +1,9 @@
+Target filename: s-signal-strength.webp
+Aspect ratio: 16:9
+---
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a suspended quantum lattice of interlocking light particles as the central visual metaphor for What's Your Signal Strength?, with 0-10% signal: the washing machine brain and 10-60% signal: focus and flow suggested through subtle supporting forms, concentric energy waves, and a vast atmospheric cosmic background.
+Color palette: black-blue, moonlit silver, turquoise, sunrise orange.
+Style: philosophical, abstract, clean, no text, no people.
+Mood: "What's Your Signal Strength? unfolds as a clear, transformative recognition."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

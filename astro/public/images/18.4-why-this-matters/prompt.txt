@@ -1,0 +1,9 @@
+Target filename: connection-matters-concept.webp
+Aspect ratio: 16:9
+---
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a constellation-like network of glowing nodes joined by fine filaments as the central visual metaphor for Why Your Connection Matters, with the goal: keep you disconnected and the result: a controlled reality suggested through subtle supporting forms, concentric energy waves, and a vast atmospheric cosmic background.
+Color palette: midnight indigo, deep violet, silver, electric cyan.
+Style: philosophical, abstract, clean, no text, no people.
+Mood: "Why Your Connection Matters unfolds as a clear, transformative recognition."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

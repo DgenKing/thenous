@@ -1,9 +1,0 @@
-Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 16:9).
-Depict a glowing, intricate human brain at the center of a cosmic or abstract void, its neural networks visibly pulsing with soft light.
-Within the brain's structure, embed subtle quantum phenomena: shimmering particles in superposition, tiny wave interference patterns, and luminous microtubules, hinting at the brain's function as a quantum processor.
-Around the brain, integrate ethereal representations of biological systems: a glowing plant leaf with intricate energy pathways, microscopic enzymes facilitating quantum tunneling, and a majestic bird navigating with quantum-enhanced vision, symbolizing nature's inherent quantum magic.
-The overall composition should convey the profound idea that quantum effects are fundamental to both biological life and consciousness, suggesting that thoughts are quantum events and hinting at the possibility of quantum connections between brains.
-Color palette: deep indigo cosmos, electric blue neural paths, gold-white quantum sparks, emerald green bio accents, with vibrant blues and purples for the brain's quantum activity.
-Style: scientific, mystical, abstract, clean, no text, no people.
-Mood: "The universal quantum magic connecting biological life, consciousness, and the very fabric of reality."
-Output format: optimized for web header, ultra-detailed, 16:9 aspect ratio.

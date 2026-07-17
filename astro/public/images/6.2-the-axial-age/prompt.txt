@@ -1,0 +1,9 @@
+Target filename: great-awakening-500-bc.webp
+Aspect ratio: 16:9
+---
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a rising column of iridescent energy spiralling toward a celestial aperture as the central visual metaphor for The Great Awakening of 500 BC, with the chapter central insight suggested through subtle supporting forms, concentric energy waves, and a vast atmospheric cosmic background.
+Color palette: midnight indigo, deep violet, silver, electric cyan.
+Style: philosophical, abstract, clean, no text, no people.
+Mood: "The Great Awakening of 500 BC unfolds as a clear, transformative recognition."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

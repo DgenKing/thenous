@@ -1,9 +1,0 @@
-Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
-Depict a central, glowing, intricate scientific experiment setup, symbolizing "The Ultimate Test: Can It Be Proven Wrong?" and the bedrock of falsifiability.
-The experiment features a human figure (gender-neutral, semi-transparent) interacting with a complex, geometric "DMT experiment" interface, where data streams are flowing and being rigorously tested.
-The scene should convey the tension and integrity of scientific inquiry, with elements that suggest the possibility of a "null result" (e.g., a delicate balance that could tip either way) and the honest acceptance of outcomes.
-The overall composition should illustrate the scientific method in action: clear predictions, rigorous testing, honest acceptance of results, and the adjustment of theories based on evidence, emphasizing that being wrong is how science progresses.
-Color palette: cool blues and greens for the scientific instruments and data, with vibrant golds and whites for the insights and the integrity of the process.
-Style: scientific, philosophical, abstract, clean, no text, no people.
-Mood: "The rigorous pursuit of truth through falsifiable experiments, embracing uncertainty and honest results as the foundation of scientific progress and knowledge."
-Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

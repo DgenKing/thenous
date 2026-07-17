@@ -1,8 +1,0 @@
-Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
-Depict a central, luminous, abstract form representing "consciousness," radiating intricate patterns of light and energy that interact with its surroundings.
-Around this central form, subtle visual elements can illustrate "the critical difference" between this proposed understanding of consciousness and more conventional views. This could be shown by contrasting the vibrant, active central form with more rigid, static, or fragmented representations of academic definitions.
-The overall composition should invite contemplation on "what is consciousness," highlighting its dynamic and fundamental nature compared to limited interpretations.
-Color palette: a spectrum of vibrant, evolving colors for consciousness (e.g., iridescent blues, purples, golds), contrasting with more subdued or monochromatic tones for the academic definitions.
-Style: philosophical, abstract, clean, no text, no people.
-Mood: "Exploring the profound nature of consciousness beyond conventional understanding."
-Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

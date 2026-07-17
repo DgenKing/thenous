@@ -1,6 +1,8 @@
 ---
+import '@fontsource-variable/fraunces';
+import '@fontsource-variable/inter';
 import '../styles/global.css';
-import { partsNav } from '../lib/site';
+import { partsNav, progressData } from '../lib/site';
 
 interface Props {
   title: string;
@@ -10,8 +12,9 @@ interface Props {
 }
 const { title, description, canonicalPath = '/', ogImage } = Astro.props;
 const parts = await partsNav();
+const progress = await progressData();
 const canonical = new URL(canonicalPath, Astro.site);
-const socialTitle = `${title} - The Pattern`;
+const socialTitle = `${title} - The Nous`;
 const imageUrl = ogImage ? new URL(ogImage, Astro.site).href : undefined;
 ---
 
@@ -28,7 +31,7 @@ const imageUrl = ogImage ? new URL(ogImage, Astro.site).href : undefined;
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     {imageUrl && <meta property="og:image" content={imageUrl} />}
-    <meta property="og:site_name" content="The Pattern" />
+    <meta property="og:site_name" content="The Nous" />
     <meta name="twitter:card" content={imageUrl ? 'summary_large_image' : 'summary'} />
     <meta name="twitter:title" content={socialTitle} />
     <meta name="twitter:description" content={description} />
@@ -40,7 +43,7 @@ const imageUrl = ogImage ? new URL(ogImage, Astro.site).href : undefined;
     <a class="skip-to-content" href="#main-content">Skip to content</a>
     <header class="site-header">
       <div class="nav-shell">
-        <a class="navbar-brand" href="/"><img src="/images/the-pattern-logo.webp" alt="The Pattern Logo" height="30" />The Pattern</a>
+        <a class="navbar-brand" href="/"><img src="/images/the-nous-logo.webp" alt="The Nous Logo" height="30" />The Nous</a>
         <button class="nav-toggle" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="Toggle navigation">☰</button>
         <nav class="site-nav" id="site-nav" aria-label="Primary navigation">
           <ul>
@@ -56,7 +59,8 @@ const imageUrl = ogImage ? new URL(ogImage, Astro.site).href : undefined;
       </div>
     </header>
     <main class="main-content" id="main-content"><slot /></main>
-    <footer class="footer"><div class="footer-content"><p>© 2025 The Pattern. All rights reserved.</p><p class="text-muted">Exploring consciousness, reality, and awakening.</p></div></footer>
+    <footer class="footer"><div class="footer-content"><p>© 2025 The Nous. All rights reserved.</p><p class="text-muted">Exploring consciousness, reality, and awakening.</p></div></footer>
+    <script type="application/json" id="progress-data" set:html={JSON.stringify(progress)}></script>
     <script is:inline>
       const header = document.querySelector('.site-header');
       const toggle = document.querySelector('.nav-toggle');
@@ -64,6 +68,83 @@ const imageUrl = ogImage ? new URL(ogImage, Astro.site).href : undefined;
         const open = header?.classList.toggle('nav-open') ?? false;
         toggle.setAttribute('aria-expanded', String(open));
       });
+
+      // Fade body images in as they scroll into view
+      const imgs = document.querySelectorAll('.content-wrap img');
+      const io = new IntersectionObserver((entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting) { e.target.classList.add('is-visible'); io.unobserve(e.target); }
+        });
+      }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
+      imgs.forEach((img) => { img.classList.add('reveal'); io.observe(img); });
+
+      // Gently reveal each section — fires early (section still below the fold)
+      // so text is fully in place by the time it reaches the reading zone
+      const sections = document.querySelectorAll('.content-wrap .doc-section');
+      const secIo = new IntersectionObserver((entries) => {
+        entries.forEach((e) => {
+          if (e.isIntersecting) { e.target.classList.add('is-visible'); secIo.unobserve(e.target); }
+        });
+      }, { threshold: 0, rootMargin: '0px 0px 12% 0px' });
+      sections.forEach((s) => { s.classList.add('reveal-section'); secIo.observe(s); });
+
+      // --- Reading progress (localStorage; per-device, no backend) ---
+      (function () {
+        const KEY = 'thenous:read';
+        let read;
+        try { read = new Set(JSON.parse(localStorage.getItem(KEY) || '[]')); } catch (e) { read = new Set(); }
+        const save = () => { try { localStorage.setItem(KEY, JSON.stringify([...read])); } catch (e) {} };
+        const norm = (p) => (p.endsWith('/') ? p : p + '/');
+        let data = [];
+        try { data = JSON.parse(document.getElementById('progress-data').textContent); } catch (e) {}
+        const byPart = new Map();
+        data.forEach((e) => byPart.set(norm(e.partHref), e));
+        const tick = () => {
+          const s = document.createElement('span');
+          s.className = 'read-tick'; s.textContent = '✓'; s.setAttribute('aria-label', 'read');
+          return s;
+        };
+
+        function render() {
+          // Menu: tick a part only when every page in it is read
+          document.querySelectorAll('.dropdown-menu a').forEach((a) => {
+            const e = byPart.get(norm(new URL(a.href).pathname));
+            a.querySelector('.read-tick')?.remove();
+            if (e && e.chapters.every((c) => read.has(norm(c)))) a.appendChild(tick());
+          });
+          // Cards: home cards link to a part (show x/y + tick), index cards link to a chapter (tick)
+          document.querySelectorAll('.chapter-card').forEach((card) => {
+            const a = card.querySelector('a'); if (!a) return;
+            const path = norm(new URL(a.href).pathname);
+            card.querySelector('.read-tick')?.remove();
+            card.querySelector('.progress-count')?.remove();
+            const h = card.querySelector('h3');
+            const partEntry = byPart.get(path);
+            if (partEntry) {
+              const done = partEntry.chapters.filter((c) => read.has(norm(c))).length;
+              const total = partEntry.chapters.length;
+              const s = document.createElement('span');
+              s.className = 'progress-count'; s.textContent = done + '/' + total;
+              h && h.appendChild(s);
+              if (done === total) { card.classList.add('is-read'); h && h.appendChild(tick()); }
+            } else if (read.has(path)) {
+              card.classList.add('is-read'); h && h.appendChild(tick());
+            }
+          });
+        }
+
+        // Mark the current chapter page read once the bottom nav scrolls into view
+        const nav = document.querySelector('.page-navigation');
+        const here = norm(location.pathname);
+        const isChapter = data.some((e) => e.chapters.some((c) => norm(c) === here));
+        if (nav && isChapter && !read.has(here)) {
+          const obs = new IntersectionObserver((ents) => {
+            ents.forEach((en) => { if (en.isIntersecting) { read.add(here); save(); obs.disconnect(); render(); } });
+          }, { threshold: 0 });
+          obs.observe(nav);
+        }
+        render();
+      })();
     </script>
   </body>
 </html>

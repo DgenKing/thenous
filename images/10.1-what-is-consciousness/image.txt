@@ -1,9 +1,0 @@
-Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
-Depict a central, ethereal human figure (gender-neutral, semi-transparent) standing between two halves of a cosmic scene, symbolizing "What Is Consciousness, Anyway?" and the split between AI and human definitions.
-One half represents "The AI's Definition: Consciousness as a THING" (a Noun), showing a vast, abstract "field of awareness" from which reality emerges, with subtle, glowing theoretical constructs.
-The other half represents "The Human's Definition: Consciousness as an ACTION" (a Verb), showing the figure actively engaged in "realization of self," "questioning," "observing," "perceiving," "understanding," "thinking," and "acting on those thoughts," with glowing energy emanating from their actions.
-The overall composition should convey the profound difference between consciousness as a passive noun (theory) and an active verb (practice), highlighting that this distinction is "everything" in understanding consciousness.
-Color palette: cool blues and purples for the AI's theoretical field, contrasting with warm golds, whites, and electric greens for the human's active consciousness.
-Style: philosophical, abstract, clean, no text, no people.
-Mood: "The profound distinction between theoretical and experiential definitions of consciousness, revealing it as both a fundamental field and an active process of self-realization and creation."
-Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

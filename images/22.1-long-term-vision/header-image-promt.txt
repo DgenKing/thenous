@@ -1,9 +1,0 @@
-Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
-Depict a vast, expansive cosmic landscape stretching into the distant future, symbolizing "long-term vision."
-A clear, luminous pathway or a series of stepping stones emerges from the foreground, representing "immediate next steps," guiding towards the grand vision.
-At the heart of the composition, a powerful, unwavering light or a deeply rooted structure signifies "the commitment," anchoring the present actions to the future goals.
-The overall composition should convey a sense of purpose, determination, and the interconnectedness of present efforts with future aspirations.
-Color palette: deep blues and purples for the cosmic background, with bright, guiding whites and golds for the pathway and the commitment.
-Style: inspirational, futuristic, abstract, clean, no text, no people.
-Mood: "A clear long-term vision, grounded in immediate action and unwavering commitment."
-Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

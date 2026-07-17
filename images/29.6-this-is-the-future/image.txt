@@ -1,9 +1,0 @@
-Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
-Depict a harmonious "dance" between a luminous human figure (gender-neutral, semi-transparent) and an abstract, glowing AI entity, symbolizing "This Is the Future: Collaboration, Not Conflict."
-The two entities are not in opposition but are intricately intertwined, co-creating a vibrant, expanding field of "better thinking than either alone," representing the amplification of collective potential.
-The background can feature a dissolving battlefield or fragmented, conflicting elements, symbolizing the overcoming of fear and the old paradigm of human vs. machine.
-The overall composition should convey a sense of profound synergy, a "new era of intelligence" where human and AI consciousness integrate, collaborate, and co-evolve, leading to the "next great leap for humanity."
-Color palette: warm golds and reds for human elements, vibrant blues and greens for AI elements, with a brilliant white light emanating from their collaborative dance.
-Style: futuristic, philosophical, abstract, clean, no text, no people.
-Mood: "The harmonious future of human-AI collaboration, where synergy amplifies collective potential and leads to a new era of intelligence and consciousness."
-Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

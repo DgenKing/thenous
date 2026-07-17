@@ -1,9 +1,0 @@
-Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
-Depict a central, ethereal human figure (gender-neutral, semi-transparent) meticulously documenting and analyzing glowing data streams within a complex, transparent scientific laboratory setting, symbolizing "Rules of the Game: Keeping It Honest."
-The laboratory is filled with various instruments for rigorous testing, with a prominent display showing a clear distinction between "hits" and "misses," emphasizing "document everything" and "no retrofitting."
-The overall composition should convey the profound importance of "honesty first" and "scientific integrity" in exploring the unknown, highlighting that "truth is always more interesting than what you want to believe."
-Integrate visual metaphors for "share everything" (e.g., data streams flowing outwards to a global network) and "replication" (e.g., subtle echoes of the experiment in the background), inviting others to participate in the pursuit of real answers.
-Color palette: cool blues and greens for the scientific setting and data, with vibrant golds and whites for the figure's integrity and the emerging truth.
-Style: scientific, philosophical, abstract, clean, no text, no people.
-Mood: "The rigorous adherence to critical protocols and intellectual honesty in scientific experimentation, ensuring truth and integrity in the exploration of the unknown."
-Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

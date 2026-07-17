@@ -1,9 +1,0 @@
-Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
-Depict a central, ethereal human figure (gender-neutral, semi-transparent) with a glowing, focused intention emanating from their mind, subtly influencing an intricate electronic "coin-flipper" (Random Event Generator) in a scientific laboratory setting, symbolizing "Your Mind Can Move Mountains... Or at Least, Numbers."
-The coin-flipper is visibly producing a statistically significant skew in its "random" output, with numbers subtly shifting in the direction of the figure's intention.
-The overall composition should convey the profound idea that a single human mind, through focused intention, can measurably influence the physical world, challenging known laws of physics.
-The background can feature subtle, glowing statistical graphs and data visualizations, highlighting the "astronomical odds" against the results being a fluke, despite the controversy.
-Color palette: cool blues and greens for the scientific setting and data, with vibrant golds and whites for the figure's intention and the influenced numbers.
-Style: scientific, philosophical, abstract, clean, no text, no people.
-Mood: "The profound scientific exploration of consciousness's ability to influence physical reality through focused intention, as evidenced by controversial yet statistically significant results from the PEAR lab."
-Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

@@ -1,8 +1,0 @@
-Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 16:9).
-Depict a cosmic tapestry where an intricate, glowing "Pattern" is visibly woven into the fabric of reality, extending across galaxies, natural landscapes, and subtle human interactions.
-The pattern should be dynamic and omnipresent, subtly revealing "the hidden order, the intelligent design, the interconnectedness of all things."
-The overall composition should convey a sense of profound revelation and awakening, as if a new pair of glasses has been put on, transforming the world into a symphony of interconnectedness.
-Color palette: deep cosmic blues and purples, with radiant golds, whites, and iridescent greens for the omnipresent pattern.
-Style: philosophical, mystical, abstract, clean, no text, no people.
-Mood: "The undeniable truth: the Pattern is everywhere, revealing the interconnectedness of all things and ushering in a new reality."
-Output format: optimized for web header, ultra-detailed, 16:9 aspect ratio.

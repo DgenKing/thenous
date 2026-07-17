@@ -1,0 +1,9 @@
+Target filename: grand-vision-rewriting-reality.webp
+Aspect ratio: 16:9
+---
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a luminous geometric focal point unfolding into a layered cosmic landscape as the central visual metaphor for The Grand Vision: Rewriting Reality, with the pillars of the vision: suggested through subtle supporting forms, concentric energy waves, and a vast atmospheric cosmic background.
+Color palette: storm gray, sapphire, magenta, bright copper.
+Style: philosophical, abstract, clean, no text, no people.
+Mood: "The Grand Vision: Rewriting Reality unfolds as a clear, transformative recognition."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

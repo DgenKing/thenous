@@ -1,0 +1,9 @@
+Target filename: data-doesn-t-lie-gcp-confirms-link.webp
+Aspect ratio: 16:9
+---
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a constellation-like network of glowing nodes joined by fine filaments as the central visual metaphor for The Data Doesn't Lie: GCP Confirms the Link, with the proof from princeton: and the implication: suggested through subtle supporting forms, concentric energy waves, and a vast atmospheric cosmic background.
+Color palette: obsidian black, cobalt blue, luminous gold, soft white.
+Style: philosophical, abstract, clean, no text, no people.
+Mood: "The Data Doesn't Lie: GCP Confirms the Link unfolds as a clear, transformative recognition."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

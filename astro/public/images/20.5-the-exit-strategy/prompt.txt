@@ -1,0 +1,9 @@
+Target filename: breaking-loop-exit-strategy.webp
+Aspect ratio: 16:9
+---
+Create a wide, cinematic, surreal digital illustration (aspect ratio 16:9).
+Depict a radiant Mobius loop unfolding through nested circles as the central visual metaphor for Breaking the Loop: Your Exit Strategy, with the practice: suggested through subtle supporting forms, concentric energy waves, and a vast atmospheric cosmic background.
+Color palette: charcoal, teal, ultraviolet, warm amber.
+Style: philosophical, abstract, clean, no text, no people.
+Mood: "Breaking the Loop: Your Exit Strategy unfolds as a clear, transformative recognition."
+Output format: optimized for web, ultra-detailed, 16:9 aspect ratio.

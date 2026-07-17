@@ -1,9 +1,0 @@
-Create a wide, cinematic, surreal digital illustration for a website header banner (aspect ratio 21:9).
-Depict a scene where two distinct but related fields of energy or light are subtly contrasted, representing "the 100 vs 99 distinction." One field is perfectly coherent and complete (100), while the other has a subtle, almost imperceptible flaw or incompleteness (99).
-A central, luminous element, perhaps a magnifying lens of truth or a beacon of integrity, highlights "why this honesty is crucial" in discerning the subtle difference.
-The surrounding environment can feature abstract representations of scientific inquiry and critical thinking, with elements that emphasize "the importance of falsifiability," such as a delicate balance that can be easily tipped by a single, verifiable truth.
-The overall composition should convey a sense of precision, integrity, and the profound impact of subtle differences in understanding.
-Color palette: crisp whites and golds for the 100, with subtle grays or off-whites for the 99. Clear blues and greens for the elements of honesty and falsifiability.
-Style: scientific, philosophical, abstract, clean, no text, no people.
-Mood: "The profound significance of absolute truth and intellectual honesty in discerning subtle distinctions."
-Output format: optimized for web header, ultra-detailed, 21:9 aspect ratio.

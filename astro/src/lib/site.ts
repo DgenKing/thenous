@@ -31,3 +31,17 @@ export async function partsNav(): Promise<{ title: string; href: string }[]> {
     ([part, title]) => ({ title, href: `/pages/${part}/` }),
   );
 }
+
+/** Per-part chapter paths, for client-side reading-progress tracking. */
+export async function progressData(): Promise<
+  { part: string; partHref: string; chapters: string[] }[]
+> {
+  const chapters = await sortedChapters();
+  const map = new Map<string, { part: string; partHref: string; chapters: string[] }>();
+  for (const c of chapters) {
+    const part = c.data.part;
+    if (!map.has(part)) map.set(part, { part, partHref: `/pages/${part}/`, chapters: [] });
+    map.get(part)!.chapters.push(chapterPath(c));
+  }
+  return [...map.values()];
+}
